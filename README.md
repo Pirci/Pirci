@@ -6,5 +6,5 @@ I'm JavaScript Developer, with Engineering education background and cheerful cha
 - 🌱    I’m currently learning React.
 - 🤔    I’m looking for Junior Developer Job.
 - 😀    I like cats, rts games and travel.
-- 💬    Ask me about Front-end web development.
+- 💬    Ask me about Web Development.
 - 📫    How to reach me: emrepirci@gmail.com
