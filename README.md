@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm JavaScript Developer, with Engineering education background and cheerful character. 
+I'm Front-End Developer, with Engineering education background and cheerful character. 
 
 - 🔭    I’m open for job offers.
 - 🌱    I’m currently learning React.
