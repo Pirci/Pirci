@@ -10,9 +10,11 @@
 <div size='20px'> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='left'>
-<a href = 'https://www.linkedin.com/in/epirci/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/emrepircii'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.instagram.com/pirciemre/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/epirci/' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href="https://dev.to/pirci" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width = '35px' align= 'center'></a>
+ <a href="https://emre-pirci.netlify.app/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/951/premium/951876.png?token=exp=1643293167~hmac=db74488b7159664ac08ccba32c4227fd" width = '35px' align= 'center'></a>
+<a href = 'https://twitter.com/emrepircii' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.instagram.com/pirciemre/' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/Pirci'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Pirci.Pirci)
@@ -25,15 +27,22 @@
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p align='left'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/redux.svg'>                         <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'>                                           
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'>                             <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/jest.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/cypress.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/webpack.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/npm.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/xd.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/figma.svgg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/postman.svg'>
+<img width ='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/heroku.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 
