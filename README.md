@@ -12,7 +12,7 @@
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/epirci/' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href="https://dev.to/pirci" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width = '35px' align= 'center'></a>
- <a href="https://emre-pirci.netlify.app/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/951/premium/951876.png?token=exp=1643293167~hmac=db74488b7159664ac08ccba32c4227fd" width = '35px' align= 'center'></a>
+ <a href="https://emre-pirci.netlify.app/" target="_blank"><img src="https://t4.ftcdn.net/jpg/02/35/16/21/360_F_235162118_16SYSiOCQ29rhqC5MatUqP7etTVDYDOQ.jpg" width = '35px' align= 'center'></a>
 <a href = 'https://twitter.com/emrepircii' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/pirciemre/' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/Pirci'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
