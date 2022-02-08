@@ -17,7 +17,7 @@
 <a href = 'https://www.instagram.com/pirciemre/' target="_blank"> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/Pirci'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
-![Visitors]((https://komarev.com/ghpvc/?username=Pirci))
+![Visitors](https://komarev.com/ghpvc/?username=Pirci&style=flat-square)
   
 
 
